@@ -1,6 +1,9 @@
 # Emasen-a-procedural-maze-game-seeded-by-emotion
 
-This repository contains the compiled executable of Emasen and the Jupyter notebook python code to train the Neural network.
+This repository contains only the Jupyter notebook python code to train the Neural network as the unreal project files and the compile executable are too large to upload.
+
+This is a link to Emasen executable:
+
 To run Emasen one needs to go to thee following directory "WindowsNoEditor\Engine\Extras\Redist\en-us" and run "UE4PrereqSetup_x64.exe" to install prerequsites.
 The Emasen executable is named "DungeonV5.exe" and is located under "WindowsNoEditor" directory.
 
